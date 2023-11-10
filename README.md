@@ -1,8 +1,9 @@
 # Previous-Work
 
-My 'Previous-Work' folder here contains some of my previous coding work in bioinformatics and related subjects that I have done in my graduate journey. 
+My 'Previous-Work' folder here contains some of my previous coding work in bioinformatics and related subjects.
 
-It also contains 3 pdfs of my Bachelor's thesis, Breast Cancer Analysis Stats project and Database Management Project. These are just some of my work and not all that I have done throughout my academic journey. 
+It also contains 3 pdfs of my Bachelor's thesis, Breast Cancer Analysis Stats project and Database Management Project. 
+These are just some of my "recent works" and not all that I have done throughout my academic journey.
 
 Kyphosis Analysis using decision tree is a project done using Random Forest and Decision Tree during my undergrad time to get a hang of machine learning algorithms.
 
