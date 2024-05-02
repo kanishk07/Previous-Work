@@ -11,7 +11,7 @@ Breast Cancer Project was done in 1st semester of my MS to classify the cancer a
 
 Coag_ML is the code for me and my advisor's published research work on coagulation prediction. (https://www.mdpi.com/2075-1680/12/9/873). This semester, we are again working on a slightly related but newer research work for potential publication. 
 
-Post-Genomics project is still ongoing as of now in Fall, 2023 for our course, but I have uploaded some of the code for it. We are using 100's of '.vcf' files to find unique normal and tumor patients and variants. 
+Post-Genomics project was completed in Fall, 2023 for our course, but I have uploaded some of the code for it. We are using 100's of '.vcf' files to find unique normal and tumor patients and variants. 
 
 Summer Projects with Python and R are both codes for Projects that I did in the summer of 2023 under Dr. Ramadevi at Texas Tech University of Health and Sciences, El Paso, Texas. They contain code for the data visualisation of the data that was provided to me by Dr. Ramadevi and her lab research. I also did computational molecular docking for her using a lot of different software and bioinformatics databases. It is a publication work in progress
 
