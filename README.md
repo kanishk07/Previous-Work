@@ -1,4 +1,4 @@
-*** Previous-Work ***
+**Previous Work**
 
 My 'Previous-Work' folder here contains some of my previous coding work in bioinformatics and related subjects.
 
